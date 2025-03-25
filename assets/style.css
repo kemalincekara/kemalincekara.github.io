@@ -69,7 +69,8 @@ a:hover {
   width: 200px;
   height: 200px;
   margin: 15px 0 0 15px;
-  background: url("https://avatars3.githubusercontent.com/u/29798096");
+  background: url("https://avatars3.githubusercontent.com/u/29798096") no-repeat;
+  background-size: 200px 200px;
   text-indent: -99999px;
 }
 
